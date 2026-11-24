@@ -1,0 +1,10 @@
+/build/
+/build-*/
+*.o
+*.a
+*.dSYM/
+*.png
+*.ppm
+*.raw
+*.log
+.DS_Store
