@@ -1,7 +1,8 @@
-# v0.1.0
+# v0.1.1
 
-Initial public source release of the ScanJet 4200C native C driver and GTK
-application.
+Source release of the ScanJet 4200C native C driver and GTK application.
+The README now states the project's aim to counter the scanner's planned
+obsolescence by keeping usable hardware out of electronic waste.
 
 - Native libusb scanning with preview and adjustable final scan area.
 - PNG, JPEG, TIFF, and PDF output from the GTK application.

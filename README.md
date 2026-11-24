@@ -5,6 +5,11 @@ An experimental C driver and GTK 4 scanning application for the HP ScanJet
 software is needed at runtime. This project is independent and is not
 affiliated with or endorsed by HP.
 
+The ScanJet 4200C is another victim of planned obsolescence: its hardware can
+still make good scans, but software support for current computers disappeared.
+This project aims to keep these scanners useful instead of sending them to
+electronic waste.
+
 The driver was developed by studying the scanner and the behavior of the
 historical HP Windows driver. The C source implements the USB protocol,
 calibration, scan planning, image assembly, and motor control. The repository
